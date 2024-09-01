@@ -13,6 +13,19 @@ A curated collection of essential commands for various technologies and tools. T
 - [Ansible](#ansible)
 - [Kubernetes](#kubernetes)
 
+## Folder Structure
+
+TechCommandVault/<br>
+│<br>
+├── PowerShell/<br>
+│   └── commands.md<br>
+│<br>
+├── Git/<br>
+│   └── commands.md<br>
+│<br>
+├── README.md<br>
+└── LICENSE<br>
+
 ## 🛠️ PowerShell
 Collection of useful PowerShell commands for automation, scripting, and system administration.
 
