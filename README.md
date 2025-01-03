@@ -33,7 +33,7 @@ Collection of useful PowerShell commands for automation, scripting, and system a
 Commonly used Windows CMD commands for file manipulation, system control, and more.
 
 ## ☁️ Azure CLI
-Essential Azure CLI commands for managing Azure resources, deployments, and services.
+Essential Azure CLI commands for managing Azure resources, deployments, services.
 
 ## 🗂️ Git
 Key Git commands for version control, branching, and collaboration.
