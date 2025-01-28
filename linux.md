@@ -28,3 +28,14 @@ unzip — Unzip files in Linux
 ssh — Secure Shell command in Linux
 service — Linux command to start and stop services
 ps — Display active processes
+kill and killall — Kill active processes by process ID or name
+df — Display disk filesystem information
+mount — Mount file systems in Linux
+chmod — Command to change file permissions
+chown — Command for granting ownership of files or folders
+ifconfig — Display network interfaces and IP addresses
+traceroute — Trace all the network hops to reach the destination
+wget — Direct download files from the internet
+ufw — Firewall command
+iptables — Base firewall for all other firewall utilities to interface with
+
