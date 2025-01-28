@@ -18,3 +18,13 @@ tar — Command to extract and compress files in Linux
 grep — Search for a string within an output
 head — Return the specified number of lines from the top
 tail — Return the specified number of lines from the bottom
+diff — Find the difference between two files
+cmp — Allows you to check if two files are identical
+comm — Combines the functionality of diff and cmp
+sort — Linux command to sort the content of a file while outputting
+export — Export environment variables in Linux
+zip — Zip files in Linux
+unzip — Unzip files in Linux
+ssh — Secure Shell command in Linux
+service — Linux command to start and stop services
+ps — Display active processes
