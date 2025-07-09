@@ -12,6 +12,7 @@ A curated collection of essential commands for various technologies and tools. T
 - [Terraform](#terraform)
 - [Ansible](#ansible)
 - [Kubernetes](#kubernetes)
+- Misc
 
 ## Folder Structure
 
