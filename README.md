@@ -7,6 +7,7 @@ A curated collection of essential commands for various technologies and tools. T
 - [Windows CMD](#windows-cmd)
 - [Azure CLI](#azure-cli)
 - [Git](#git)
+- [GH](#githubdesktop)
 - [Docker](#docker)
 - [Linux Shell](#linux-shell)
 - [Terraform](#terraform)
