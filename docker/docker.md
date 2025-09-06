@@ -16,5 +16,5 @@ docker inspect mywebapp-app-2 | Select-String  HostPort
 docker ps 
 
 
-docker is exec bash
+docker it exec bash
 
