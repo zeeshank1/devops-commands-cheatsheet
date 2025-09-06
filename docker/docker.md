@@ -13,3 +13,8 @@ docker inspect mywebapp-app-2 | grep HostPort
 in powershell -
 docker inspect mywebapp-app-2 | Select-String  HostPort
 
+docker ps 
+
+
+docker is exec bash
+
